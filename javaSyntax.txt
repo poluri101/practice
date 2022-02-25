@@ -5,3 +5,5 @@ int a = 3; - >declaration of variable
 String  = "hello" -> declaration of String
 
 HashMap<int,int>map= new HashMap<>();
+
+HashSet<int>set = new HashSet<>();
