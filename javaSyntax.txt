@@ -7,3 +7,5 @@ String  = "hello" -> declaration of String
 HashMap<int,int>map= new HashMap<>();
 
 HashSet<int>set = new HashSet<>();
+
+ArrayList<int> al = new ArrayList<int>();
