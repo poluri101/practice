@@ -7,3 +7,5 @@ int a = 3; - >declaration of variable
 HashMap<int,int>map= new HashMap<>();
 
 HashSet<int>set = new HashSet<>();
+
+ArrayList<int> al = new ArrayList<int>();
