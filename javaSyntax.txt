@@ -3,3 +3,5 @@ System.out.println("Hello World") -> This is to print hello world in single line
 int a = 3; - >declaration of variable 
 
 String  = "hello" -> declaration of String
+
+HashMap<int,int>map= new HashMap<>();
